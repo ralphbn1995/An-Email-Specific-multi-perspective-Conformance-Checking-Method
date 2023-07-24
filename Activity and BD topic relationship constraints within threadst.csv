@@ -1,0 +1,103 @@
+Activity name,BD Topics
+see file,File management - Confidence: 0.8
+attach spreadsheet,File attachments and sending - Confidence: 0.9
+enter deal,Deal transactions and purchases - Confidence: 0.7
+create deal,Deal creation and volume management - Confidence: 0.9
+note deal,Deal documentation and notes - Confidence: 0.8
+see_understand_determine_check gas,Gas sales and understanding - Confidence: 0.6
+flow deal,Gas flow and volume measurements - Confidence: 0.8
+revise numeric,Nominations and revised volumes - Confidence: 0.7
+extend deal,Deal extensions and modifications - Confidence: 0.8
+settle_resolve issue,Issue resolution and settlement - Confidence: 0.7
+allocate volume0management,Volume allocation and ticketing - Confidence: 0.9
+set_put_fix_determine_adjust deal,Deal meter settings and adjustments - Confidence: 0.8
+add deal,Adding deals and demand fees - Confidence: 0.8
+change_convert deal,Not assigned
+send_attach_ship transport0contract,File attachments and sending - Confidence: 0.9
+wrap_roll deal,Deal transactions and purchases - Confidence: 0.8
+show deal,Deal transactions and purchases - Confidence: 0.8
+see_determine_check_view deal,File management - Confidence: 0.8
+use_apply deal,Deal transactions and purchases - Confidence: 0.7
+expire deal,Deal extensions and modifications - Confidence: 0.7
+agree_match_fit_accord contract,Deal transactions and purchases - Confidence: 0.6
+make change,Deal extensions and modifications - Confidence: 0.8
+handle_cover deal,Deal meter settings and adjustments - Confidence: 0.7
+stay_remain_delay_continue line_pipeline,Deal extensions and modifications - Confidence: 0.6
+sell_trade natural0gas,Gas sales and understanding - Confidence: 0.8
+make decision,Deal transactions and purchases - Confidence: 0.8
+purchase_buy gas,Deal transactions and purchases - Confidence: 0.8
+leave_result line_note,Not assigned
+keep_continue desk,Deal extensions and modifications - Confidence: 0.7
+schedule volume,Volume allocation and ticketing - Confidence: 0.8
+pathe deal,Deal transactions and purchases - Confidence: 0.7
+read_translate_learn information,File management - Confidence: 0.9
+put_assign contract,Deal transactions and purchases - Confidence: 0.7
+execute agreement,Deal transactions and purchases - Confidence: 0.8
+deliver gas,Issue resolution and settlement - Confidence: 0.9
+replace deal_trade,Deal transactions and purchases - Confidence: 0.8
+expect volume,Deal transactions and purchases - Confidence: 0.8
+bill pricenumeric,Deal transactions and purchases - Confidence: 0.7
+use_apply transport0contract,Deal transactions and purchases - Confidence: 0.7
+set_arrange_put_order_rank_prepare_determine_define_adjust personname,Scheduling Interview Dates
+tie_attach transaction,File attachments and sending - Confidence: 0.8
+receive_incur gas,Gas flow and volume measurements - Confidence: 0.8
+receive gas,File attachments and sending - Confidence: 0.9
+adjust_set volume,Deal meter settings and adjustments - Confidence: 0.8
+pay pricenumeric,Deal transactions and purchases - Confidence: 0.8
+pay supplier,Deal transactions and purchases - Confidence: 0.8
+keep_hold personnelpronoun,Deal transactions and purchases - Confidence: 0.8
+check_break object,File management - Confidence: 0.9
+forward deal,Volume allocation and ticketing - Confidence: 0.8
+attach_transmit_send agreement,File attachments and sending - Confidence: 0.9
+send_direct_attach request,File attachments and sending - Confidence: 0.9
+send_attach file,File attachments and sending - Confidence: 0.9
+review comment,Deal documentation and notes - Confidence: 0.8
+supply_provide info_information,Deal transactions and purchases - Confidence: 0.8
+sell_trade numeric0mw,Gas sales and understanding - Confidence: 0.8
+reflect deal,Deal transactions and purchases - Confidence: 0.8
+use_apply model_simulation,Gas sales and understanding - Confidence: 0.8
+make presentation,Not assigned
+send_attach resume,File attachments and sending - Confidence: 0.9
+purchase_buy numeric0mw,Gas sales and understanding - Confidence: 0.8
+schedule locname,Gas sales and understanding - Confidence: 0.8
+short numeric0mw,Gas sales and understanding - Confidence: 0.8
+cut deal,Gas sales and understanding - Confidence: 0.8
+pay cost_price,Deal transactions and purchases - Confidence: 0.7
+long numeric0mw,Gas sales and understanding - Confidence: 0.8
+provide_leave cost_price,Deal transactions and purchases - Confidence: 0.8
+receive price,Gas sales and understanding - Confidence: 0.8
+run oomc0mean,Gas sales and understanding - Confidence: 0.8
+show_indicate numeric0mw,Gas sales and understanding - Confidence: 0.8
+submit schedule,Volume allocation and ticketing - Confidence: 0.8
+submit request,Volume allocation and ticketing - Confidence: 0.8
+attend meeting,Scheduling Interview Dates
+schedule_reschedule meeting,Volume allocation and ticketing - Confidence: 0.8
+complete transaction,Deal transactions and purchases - Confidence: 0.7
+make business,Key Points in Business Management
+conduct interview,Not assigned
+reach cell0phone,Improving Communication Reach
+invite_receive personnelpronoun,Successful Interview Invitations
+coordinate date0time,Scheduling Interview Dates
+forward resume,File attachments and sending - Confidence: 0.9
+set_determine_arrange interview,Scheduling Interview Dates
+reserve_hold eb0numeric,Not assigned
+schedule_reschedule interview,Volume allocation and ticketing - Confidence: 0.8
+make reservation,Not assigned
+develop_produce_prepare_evolve example_model,Deal transactions and purchases - Confidence: 0.7
+make contribution_part,Not assigned
+cover_compensate cost_price,Deal transactions and purchases - Confidence: 0.7
+send_attach info_information,File attachments and sending - Confidence: 0.9
+produce_acquire_develop_grow_evolve_create cost_price,Gas sales and understanding - Confidence: 0.8
+invite personnelpronoun,Scheduling Interview Dates
+support_confirm wholesale0power,Deal transactions and purchases - Confidence: 0.7
+invite personname,Not assigned
+write_publish book,File management - Confidence: 0.9
+leave voice,Scheduling Interview Dates
+register conference,Event Registration
+organize_prepare_coordinate power0point,Event Planning
+serve_attend conference,Event Participation
+respond delay,Communication Delays
+evaluate_assess project,Scheduling Interview Dates
+send_commit_attach presentation,File attachments and sending - Confidence: 0.9
+see_visit_realize_learn project,Not assigned
+attach schedule,File attachments and sending - Confidence: 0.9
