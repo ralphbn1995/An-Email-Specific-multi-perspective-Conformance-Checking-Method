@@ -1,0 +1,1 @@
+This repository contains a part of the code that helps generate contextual constraints from an event log in the context of email data.
