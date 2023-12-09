@@ -6,8 +6,8 @@ This repository contains the Python code and experiments discussed in the paper 
 
 ### Contents
 
-- **code:** This directory contains the Python codebase for the proposed approach.
-- **experiments:** Here, you will find the dataa used for conducting experiments as detailed in the paper, as for the obtained results.
+- **code:** This directory contains some of the Python codebase for the proposed approach.
+- **experiments:** Here, you will find the data used for conducting experiments as detailed in the paper, as for the obtained results.
 
 ## Getting Started
 
