@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 import pandas as pd
 from transformers import BertTokenizer, BertModel
 import umap
