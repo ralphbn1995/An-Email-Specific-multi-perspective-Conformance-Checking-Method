@@ -14,7 +14,7 @@ This repository contains the Python code and experiments discussed in the paper 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/ralphbn1995/Multi-Perspective-Conformance-Checking-For-Email-driven-Processes
+    git clone https://github.com/Multi-Perspective-Conformance-Checking-For-Email-driven-Processes
     cd Multi-Perspective-Conformance-Checking-For-Email-driven-Processes
     ```
 
